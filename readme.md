@@ -1,3 +1,10 @@
+The direct 3000 page download link here,
+https://github.com/wasiful/remannprimefunction/releases/download/v1.0/Claude\_Alpoge\_Lean\_Lemmas.pdf
+
+
+It is in the latest release.
+
+
 The prime structure can be generated using primestructure.py and it is a kind of Universal structure.
 
 It was invented a year from now.
@@ -37,8 +44,10 @@ https://www.researchgate.net/publication/401370203\_The\_Prime\_Algorithm\_encod
 This is an ongoing development for five years on this topic and still in progress for understanding the imaginary plane.
 
 
+
 About 3000 page lean code made readable
 Lean Code extraction from the Clude Alpoge Proof of Riemann Hypothesis was done using a vectorized data base RAG search to find the closest matches for these
+
 
 
 "theorem lemma def Riemann zeta function Dirichlet series Euler product critical strip critical line Re s",
@@ -134,6 +143,4 @@ Preserving exact formal assumptions and types keeps explicit binders, typeclasse
 
 
 Capturing supporting steps via graph dependencies ensures a headline theorem is not treated in isolation, since walking deps\_json pulls in the intermediate lemmas and helper facts that actually bridge definitions to conclusions.
-
-
 

@@ -1,5 +1,5 @@
 The direct 3000 page download link here,
-https://github.com/wasiful/remannprimefunction/releases/download/v1.0/Claude\_Alpoge\_Lean\_Lemmas.pdf
+[https://github.com/wasiful/remannprimefunction/releases/download/v1.0/Claude\_Alpoge\_Lean\_Lemmas.pdf](https://github.com/wasiful/remannprimefunction/releases/download/v1.0/Claude_Alpoge_Lean_Lemmas.pdf)
 
 
 It is in the latest release.
